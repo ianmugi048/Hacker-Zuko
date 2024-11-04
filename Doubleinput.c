@@ -3,10 +3,10 @@ int main() {
 double number;
 char alphabet;
 
-printf("Enter double input: ");
+printf("Enter Double Input: ");
 scanf("%lf", &number);
 
-printf("Enter character input: ");
+printf("Enter Character Input: ");
 scanf("\n%c", alphabet);
 
 printf("Number: %lf", number);
